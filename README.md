@@ -126,3 +126,13 @@ flowchart TD
     D5 -->|YES| E
     D5 -->|NO| I6
 ```
+
+## GitHub Desktop
+
+The command line can be difficult navigate, and because of this, it can be easier for you to use an alternate program -- Such as, GitHub desktop.  
+This can be found at [https://desktop.github.com/].  
+This program can be used to achieve all the above functions, using a Graphical user interface. It will also allow you to view the conflicts and make changes to how you commit your files. This will make the process much easier. 
+
+![Github desktop user interface](https://desktop.github.com/images/github-desktop-screenshot-windows.png)
+
+You should still follow the rules that have been outlined above. They are critical to making sure that will not cause major issues with the repository, and allow others to edit files easily. 

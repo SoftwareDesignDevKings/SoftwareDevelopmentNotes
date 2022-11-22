@@ -6,7 +6,7 @@ It is also used as a guide and learning environment for using Git and GitHub.
 There are some rules when committing to this repository, and they should be followed, otherwise,
 your notes will not be merged into the main reposititory. 
 
-## Project Structure 🏢
+## 🏢 Project Structure 🏢
 - Readme.md ➡️ This document is to seek instruction on how to use this repository.
 - 9.1 |  
       | - 9.1.1 ➡️ Social and ethical  
@@ -28,7 +28,7 @@ your notes will not be merged into the main reposititory.
       | - 9.2.4 ➡️ Testing and Evaluating of software solutions  
       |   - Using standard methods to verify the integrity and quality of a software solution.  
       |  
-      | - 9.2.4 ➡️Maintaining software solutions  
+      | - 9.2.4 ➡️ Maintaining software solutions  
       |   - Digesting the information from testing, combining it with client feedback and   
       |     redefining the software solution requirements.  
 
@@ -37,7 +37,7 @@ your notes will not be merged into the main reposititory.
       |   for real world use.  
 
 - 9.4 |  
-      | - 9.4.1 ➡️Programming Paradigms  
+      | - 9.4.1 ➡️ Programming Paradigms  
       |   - The development and use of different programming styles, along with their benefits  
       |     and drawbacks.  
 
@@ -53,12 +53,12 @@ The common commands and the rules are listed below:
 
 🔴 `git clone <repo>`   ➡️ allows you to clone a new repository. So long as you have access.  
 🔴 `git fetch --all`    ➡️ makes git aware of changes in all of your repositories, remote or local.  
-🔴 `git pull`            ️ will download changes from the online repositor.  
+🔴 `git pull`           ➡️ will download changes from the online repositor.  
 🔴 `git branch <name>`  ➡️ creates a new branch to keep changes separate.  
 🔴 `git merge <branch>` ➡️ move changes from one branch to another.  
 🔴 `git push`           ➡️ push changes to the remote repository.  
 
-### Rules
+### 👮‍♀️ Rules 👮‍♀️
 
 When using git to commit notes to the repository, there are special considerations you must make. There may be multiple people editing the repositiory, so it is good Git ettiqutee to make sure you pull, and push in a clean manner.  
 To achieve this, these are the simple rules to follow:  
@@ -127,7 +127,7 @@ flowchart TD
     D5 -->|NO| I6
 ```
 
-## GitHub Desktop
+## 🔥🔥 GitHub Desktop 🔥🔥
 
 The command line can be difficult navigate, and because of this, it can be easier for you to use an alternate program -- Such as, GitHub desktop.  
 This can be found at [https://desktop.github.com/].  

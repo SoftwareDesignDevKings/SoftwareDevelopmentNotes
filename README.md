@@ -82,6 +82,7 @@ flowchart TD
     D2{Are their changes to the repo?}
     D3{Do you have branches other than main?}
     D4{Have you finished making all changes?}
+    D5{Pull Request Confirmed?}
 
     I1[Clone Repo into a known location]
     I2[Fetch new changes]
@@ -97,29 +98,31 @@ flowchart TD
 
     S --> D1
 
-    D1 --> I1
-    D1 --> I2
+    D1 -->|NO| I1
+    D1 -->|YES| I2
 
     I2 --> D2
 
-    D2 --> I3
-    D2 --> D3
+    D2 -->|YES| I3
+    D2 -->|NO| D3
 
     I3 --> D3
     I1 --> D3
 
-    D3 --> I4
-    D3 --> I6
+    D3 -->|NO| I4
+    D3 -->|YES| I6
 
     I4 --> I5
-    I5 --> D3
+    I5 --> I3
 
     I6 --> D4
 
-    D4 --> I7
-    D4 --> I8
+    D4 -->|NO| I7
+    D4 -->|YES| I8
     
     I7 --> I6
-    I8 -->D1
-    I8 --> E
+    I8 -->D5
+
+    D5 -->|YES| E
+    D5 -->|NO| I6
 ```

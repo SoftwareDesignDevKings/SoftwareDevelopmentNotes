@@ -75,9 +75,51 @@ To achieve this, these are the simple rules to follow:
 Once you have finished your changes. You can make a _**Pull Request**_. Which allows you to merge your changes to the **MAIN** branch.
 
 ## Rule Flowchart
+
 ```mermaid
-flowchart
+flowchart TD
+    D1{Already have Repo?}
+    D2{Are their changes to the repo?}
+    D3{Do you have branches other than main?}
+    D4{Have you finished making all changes?}
 
-<st>
+    I1[Clone Repo into a known location]
+    I2[Fetch new changes]
+    I3[Pull changes from the online repository]
+    I4[Create new branch for your work]
+    I5[Check out new branch]
+    I6[Edit files]
+    I7[commit your changes]
+    I8[Create Pull request back into main]
 
+    S(Start)
+    E(End)
+
+    S --> D1
+
+    D1 --> I1
+    D1 --> I2
+
+    I2 --> D2
+
+    D2 --> I3
+    D2 --> D3
+
+    I3 --> D3
+    I1 --> D3
+
+    D3 --> I4
+    D3 --> I6
+
+    I4 --> I5
+    I5 --> D3
+
+    I6 --> D4
+
+    D4 --> I7
+    D4 --> I8
+    
+    I7 --> I6
+    I8 -->D1
+    I8 --> E
 ```

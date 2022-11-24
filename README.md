@@ -9,8 +9,8 @@ your notes will not be merged into the main reposititory.
 ## If you're commiting to this repository introduce yourself here:
 - HFoxwell 🦊 -> I'm the owner of this repo welcome 🙋‍♂️  
  ![waving gif](https://media.tenor.com/zaZ2CQnvT7MAAAAM/greetings.gif)
+- LaughableHammer i have made a change
 - ESachdev 🐐 -> Whats goodie my gang?
-
 
 ## 🏢 Project Structure 🏢
 - Readme.md ➡️ This document is to seek instruction on how to use this repository.

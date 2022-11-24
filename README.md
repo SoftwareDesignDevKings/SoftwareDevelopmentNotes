@@ -10,7 +10,6 @@ your notes will not be merged into the main reposititory.
 - HFoxwell 🦊 -> I'm the owner of this repo welcome 🙋‍♂️  
  ![waving gif](https://media.tenor.com/zaZ2CQnvT7MAAAAM/greetings.gif)
 - ESachdev 🐐 -> Whats goodie my gang?
-
 - Aaditya ⌨️ -> i don't use an android...
 ## 🏢 Project Structure 🏢
 - Readme.md ➡️ This document is to seek instruction on how to use this repository.

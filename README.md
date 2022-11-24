@@ -10,6 +10,7 @@ your notes will not be merged into the main reposititory.
 - HFoxwell 🦊 -> I'm the owner of this repo welcome 🙋‍♂️  
  ![waving gif](https://media.tenor.com/zaZ2CQnvT7MAAAAM/greetings.gif)
 - ESachdev 🐐 -> Whats goodie my gang?
+- OGerstl 🔥 -> deez
 
 
 ## 🏢 Project Structure 🏢

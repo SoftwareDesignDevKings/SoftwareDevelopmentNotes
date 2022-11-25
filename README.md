@@ -15,7 +15,7 @@ your notes will not be merged into the main reposititory.
 - Orion 🔥 -> deez
 - LaughableHammer 🖖🏼 -> A hello to the welcome section in the README!
 - Chatters -> Not much! ^_^
-
+- Aaditya -> I don't use an android...
 
 ## 🏢 Project Structure 🏢
 - Readme.md ➡️ This document is to seek instruction on how to use this repository.

@@ -11,8 +11,8 @@ your notes will not be merged into the main reposititory.
  ![waving gif](https://media.tenor.com/zaZ2CQnvT7MAAAAM/greetings.gif)
 - LaughableHammer i have made a change
 - ESachdev 🐐 -> Whats goodie my gang?
+- Orion 🔥 -> deez
 - LaughableHammer 🖖🏼 -> A hello to the welcome section in the README!
-- Orion -> deez
 
 ## 🏢 Project Structure 🏢
 - Readme.md ➡️ This document is to seek instruction on how to use this repository.

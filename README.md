@@ -12,6 +12,7 @@ your notes will not be merged into the main reposititory.
 - LaughableHammer i have made a change
 - ESachdev 🐐 -> Whats goodie my gang?
 - Orion -> deez
+- Aaditya -> i don't have an android...
 ## 🏢 Project Structure 🏢
 - Readme.md ➡️ This document is to seek instruction on how to use this repository.
 - 9.1 |  

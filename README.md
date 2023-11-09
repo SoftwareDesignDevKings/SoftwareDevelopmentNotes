@@ -7,15 +7,15 @@ There are some rules when committing to this repository, and they should be foll
 your notes will not be merged into the main reposititory. 
 
 ## If you're commiting to this repository introduce yourself here:
-- HFoxwell 🦊 -> I'm the owner of this repo welcome 🙋‍♂️  
+- [@HFoxwell](github.com/hfoxwell) 🦊 -> I'm the owner of this repo welcome 🙋‍♂️  
  ![waving gif](https://media.tenor.com/zaZ2CQnvT7MAAAAM/greetings.gif)
-- LaughableHammer i have made a change
-- ESachdev 🐐 -> Whats goodie my gang?
-- TheAndroid -> Wassup mi hombres, it is I
-- Orion 🔥 -> deez
-- LaughableHammer 🖖🏼 -> A hello to the welcome section in the README!
-- Chatters -> Not much! ^_^
-- Aaditya -> I don't use an android...
+
+- [@LaughableHammer](github.com/kushaagrak) -> i have made a change
+- [@ESachdev](github.com/EkanshSachdev) 🐐 -> Whats goodie my gang?
+- [@TheAndroid](github.com/otistheandroid) -> Wassup mi hombres, it is I
+- [@Orion](https://github.com/Orion696969) 🔥 -> deez
+- [@Chatters](https://github.com/Chedders024) -> Not much! ^_^
+- [@Aaditya](https://github.com/bucL) -> I don't use an android...
 
 ## 🏢 Project Structure 🏢
 - Readme.md ➡️ This document is to seek instruction on how to use this repository.

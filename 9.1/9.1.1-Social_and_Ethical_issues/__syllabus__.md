@@ -1,7 +1,5 @@
 # Syllabus discriptor for 9.1.1 - Social and ethical issues
 
----
-
 Students Undertaking the HSC should be aware of the broader social and 
 ethical issues associated with the development of software.
 

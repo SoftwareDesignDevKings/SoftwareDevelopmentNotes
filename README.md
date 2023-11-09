@@ -71,17 +71,20 @@ The common commands and the rules are listed below:
 
 ### 👮‍♀️ Rules 👮‍♀️
 
-When using git to commit notes to the repository, there are special considerations you must make. There may be multiple people editing the repositiory, so it is good Git ettiqutee to make sure you pull, and push in a clean manner.  
-To achieve this, these are the simple rules to follow:  
+As with any git repository you are committing to, you should ensure that you are working in a safe manner. To do this, make sure that you are *always* working on your own branch and never commit directly to **main**. 
+Likewise, you should follow the rules below so that you are keeping your notes separate, and will be able to merge your changes back to the main repository using a _**MERGE REQUEST**_. This will let your 
+changes be reviewed by your fellows, and ensure that you minimise the merge conflicts which may occur.
+
 
 ### **Rules to follow**
 
 1. If you don't have a copy of the repository, clone it into a new directory. Somewhere you are able to edit it effectivly.
-2. Make sure you `git fetch --all` before you edit any files. This will inform you of all changes. 
-3. If there are changes, make sure you pull the latest version from the repository. 
-4. When pulling from the repo, use the `git pull --all` command. It will pull changes for all repositories. 
-5. Make sure you make a new branch before you make any changes. **No changes will be allowed to be committed to the MAIN branch.** 
-6. Commit your code regularly. Make sure you make a commit using `git commit` before you change files, or after each time you save a file. 
+2. Make sure you `git fetch --all` before you edit any files. This will inform you of all changes.
+3. Create a new branch so that you have your own separate copy of the files to make changes.
+5. If there are changes, make sure you pull the latest version from the repository. 
+6. When pulling from the repo, use the `git pull --all` command. It will pull changes for all repositories. 
+7. Make sure you make a new branch before you make any changes. **No changes will be allowed to be committed to the MAIN branch.** 
+8. Commit your code regularly. Make sure you make a commit using `git commit` before you change files, or after each time you save a file. 
 
 Once you have finished your changes. You can make a _**Pull Request**_. Which allows you to merge your changes to the **MAIN** branch.
 
